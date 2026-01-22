@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tech Stack](https://skillicons.dev/icons?i=C#,python)
+
+## 🛠️ Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=python)
+
+## 📊 **GitHub Analytics**
+
